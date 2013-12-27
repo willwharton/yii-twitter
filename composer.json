@@ -1,0 +1,9 @@
+{
+  "name": "willwharton/yii-twitter",
+  "autoload": {
+    "files": ["protected/extensions/yiitwitteroauth/YiiTwitter.php"]
+  },
+  "require": {
+    "abraham/twitteroauth": "dev-add-composer-json"
+  }
+}
