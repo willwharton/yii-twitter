@@ -1,0 +1,8 @@
+{
+  "name": "willwharton/yii-twitter",
+  "autoload": {
+    "files": ["protected/extensions/yiitwitteroauth/YiiTwitter.php"]
+  },
+  "require": {
+  }
+}
